@@ -1,3 +1,6 @@
+index.htm
+index.html
+index.php
 indice
 iniciacao
 menu
@@ -4905,9 +4908,6 @@ getFile.cfm
 global.asa
 global.asax
 id_rsa.pub
-index.htm
-index.html
-index.php
 index2.php
 index3.php
 info.php
